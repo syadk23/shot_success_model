@@ -4,6 +4,6 @@ Can take images or videos as an input.
 
 # Demo
 
-![Object Detection Model](https://github.com/syadk23/shot_success_model/Demo1.png)
-![Shot Success Model](https://github.com/syadk23/shot_success_model/Demo2.png)
-![Video of Shot Success](https://github.com/syadk23/shot_success_model/DemoVideo.mp4)
+![Object Detection Model](https://github.com/syadk23/shot_success_model/blob/main/Demo1.png)
+![Shot Success Model](https://github.com/syadk23/shot_success_model/blob/main/Demo2.png)
+![Video of Shot Success](https://github.com/syadk23/shot_success_model/blob/main/DemoVideo.mp4)
